@@ -9,4 +9,5 @@ RUN apt-get update && apt-get install -y \
     && pecl install redis xdebug-3.1.6 \
     && docker-php-ext-enable redis xdebug \
     && echo "xdebug.mode=debug" > /usr/local/etc/php/conf.d/xdebug.ini \
-    && echo "xdebug.start_with_request=yes" >> /usr/local/etc/php/conf.d/xdebug.ini
+    && echo "xdebug.start_with_request=yes" >> /usr/local/etc/php/conf.d/xdebug.ini \
+    && curl -sS https://getcomposer.org/installer | php -- --install-dir=/usr/local/bin --filename=composer
