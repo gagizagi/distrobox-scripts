@@ -1,0 +1,100 @@
+# Gasper stvari (privat)
+Host github.com
+	HostName github.com
+	User git
+	IdentityFile ~/.ssh/gazzy
+	IdentitiesOnly yes
+
+Host github-work
+	HostName github.com
+	User git
+	IdentityFile ~/.ssh/iprom
+	IdentitiesOnly yes
+
+# Iprom hosts
+Host 192.168.0.* de-* *.iprom.si docker9 avatar ragnarok leviathan komodo erebus molok azariel fortuna gitlab mammoth badger deploy epithal sigil impel admina adminb
+	User gasper
+	IdentityFile ~/.ssh/iprom
+	IdentitiesOnly yes
+
+# Gitlab
+Host gitlab.iprom.si
+	User git
+
+Host gitlab
+	Hostname 192.168.0.132
+	
+# Core main
+Host docker9
+	HostName 192.168.0.97
+
+Host avatar
+	Hostname 192.168.0.178
+
+Host ragnarok
+	Hostname 192.168.0.179
+
+Host leviathan
+	Hostname 192.168.0.181
+
+Host komodo
+	Hostname 192.168.0.123
+
+Host erebus
+	Hostname 192.168.0.122
+
+Host molok
+	Hostname 192.168.0.153
+
+Host azariel
+	Hostname 192.168.0.52
+
+Host fortuna
+	Hostname 192.168.0.204
+
+
+# Core de1
+Host de-avatar
+	Hostname 192.168.249.10
+
+Host de-ragnarok
+	Hostname 192.168.249.11
+
+Host de-leviathan
+	Hostname 192.168.249.12
+
+Host de-erebus
+	Hostname 192.168.249.13
+
+Host de-komodo
+	Hostname 192.168.249.14
+
+Host de-molok
+	Hostname 192.168.249.18
+
+# Redis
+Host admina
+	Hostname 192.168.0.95
+
+Host adminb
+	Hostname 192.168.0.182
+
+# Bull workers
+Host mammoth
+	Hostname 192.168.0.196
+
+Host badger
+	Hostname 192.168.0.197
+
+Host epithal
+	Hostname 192.168.0.199
+
+Host sigil
+	Hostname 192.168.0.203
+
+Host impel
+	Hostname 192.168.0.202
+
+Host deploy
+	Hostname 192.168.0.192
+
