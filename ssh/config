@@ -12,7 +12,7 @@ Host github-work
 	IdentitiesOnly yes
 
 # Iprom hosts
-Host 192.168.0.* 192.168.249.* de-* *.iprom.si docker9 avatar ragnarok leviathan komodo erebus molok azariel fortuna gitlab mammoth badger deploy epithal sigil impel admina adminb
+Host 192.168.0.* 192.168.249.* de-* *.iprom.si docker9 avatar ragnarok leviathan komodo erebus molok azariel fortuna gitlab mammoth badger deploy epithal sigil impel admina adminb udba udbb
 	User gasper
 	IdentityFile ~/.ssh/iprom
 	IdentitiesOnly yes
@@ -72,12 +72,19 @@ Host de-komodo
 Host de-molok
 	Hostname 192.168.249.18
 
-# Redis
+# Adserver9
 Host admina
 	Hostname 192.168.0.95
 
 Host adminb
 	Hostname 192.168.0.182
+
+# Redis
+Host udba
+	Hostname 192.168.0.125
+
+Host udbb
+	Hostname 192.168.0.126
 
 # Bull workers
 Host mammoth
