@@ -1,0 +1,6 @@
+alias l="ls -lah"
+alias c="clear"
+alias d="podman"
+alias docker="podman"
+alias p="podman"
+alias o="ollama run qwen3.5:9b --think=false"
