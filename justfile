@@ -8,3 +8,7 @@ push msg:
   git commit -m "{{msg}}"
   git pull --rebase
   git push
+
+# Pull all the changes from github
+pull:
+  git pull
