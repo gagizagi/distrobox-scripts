@@ -12,7 +12,3 @@ push msg:
 # Pull all the changes from github
 pull:
   git pull
-
-# Install a distrobox config.ini
-install config:
-  distrobox assemble create --file {{config}}
