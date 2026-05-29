@@ -1,0 +1,1661 @@
+{
+  "name": "Kitava bear",
+  "description": "",
+  "ascendancy": "Smith of Kitava",
+  "passives": [
+    {
+      "id": "3936",
+      "level_interval": [
+        1,
+        100
+      ],
+      "weapon_set": 0,
+      "additional_text": ""
+    },
+    {
+      "id": "46325",
+      "level_interval": [
+        2,
+        100
+      ],
+      "weapon_set": 0,
+      "additional_text": ""
+    },
+    {
+      "id": "33556",
+      "level_interval": [
+        3,
+        100
+      ],
+      "weapon_set": 0,
+      "additional_text": ""
+    },
+    {
+      "id": "55473",
+      "level_interval": [
+        4,
+        100
+      ],
+      "weapon_set": 0,
+      "additional_text": ""
+    },
+    {
+      "id": "43164",
+      "level_interval": [
+        5,
+        100
+      ],
+      "weapon_set": 0,
+      "additional_text": ""
+    },
+    {
+      "id": "5710",
+      "level_interval": [
+        6,
+        100
+      ],
+      "weapon_set": 0,
+      "additional_text": ""
+    },
+    {
+      "id": "58528",
+      "level_interval": [
+        7,
+        100
+      ],
+      "weapon_set": 0,
+      "additional_text": ""
+    },
+    {
+      "id": "45363",
+      "level_interval": [
+        8,
+        100
+      ],
+      "weapon_set": 0,
+      "additional_text": ""
+    },
+    {
+      "id": "19011",
+      "level_interval": [
+        9,
+        100
+      ],
+      "weapon_set": 0,
+      "additional_text": ""
+    },
+    {
+      "id": "64284",
+      "level_interval": [
+        10,
+        100
+      ],
+      "weapon_set": 0,
+      "additional_text": ""
+    },
+    {
+      "id": "27373",
+      "level_interval": [
+        11,
+        100
+      ],
+      "weapon_set": 0,
+      "additional_text": ""
+    },
+    {
+      "id": "16725",
+      "level_interval": [
+        12,
+        100
+      ],
+      "weapon_set": 0,
+      "additional_text": ""
+    },
+    {
+      "id": "54811",
+      "level_interval": [
+        13,
+        100
+      ],
+      "weapon_set": 0,
+      "additional_text": ""
+    },
+    {
+      "id": "34210",
+      "level_interval": [
+        14,
+        100
+      ],
+      "weapon_set": 0,
+      "additional_text": ""
+    },
+    {
+      "id": "64939",
+      "level_interval": [
+        15,
+        100
+      ],
+      "weapon_set": 0,
+      "additional_text": ""
+    },
+    {
+      "id": "30123",
+      "level_interval": [
+        16,
+        100
+      ],
+      "weapon_set": 0,
+      "additional_text": ""
+    },
+    {
+      "id": "26092",
+      "level_interval": [
+        17,
+        100
+      ],
+      "weapon_set": 0,
+      "additional_text": ""
+    },
+    {
+      "id": "52392",
+      "level_interval": [
+        18,
+        100
+      ],
+      "weapon_set": 0,
+      "additional_text": ""
+    },
+    {
+      "id": "57703",
+      "level_interval": [
+        19,
+        100
+      ],
+      "weapon_set": 0,
+      "additional_text": ""
+    },
+    {
+      "id": "26725",
+      "level_interval": [
+        20,
+        100
+      ],
+      "weapon_set": 0,
+      "additional_text": ""
+    },
+    {
+      "id": "63114",
+      "level_interval": [
+        21,
+        100
+      ],
+      "weapon_set": 0,
+      "additional_text": ""
+    },
+    {
+      "id": "18073",
+      "level_interval": [
+        22,
+        100
+      ],
+      "weapon_set": 0,
+      "additional_text": ""
+    },
+    {
+      "id": "36027",
+      "level_interval": [
+        23,
+        100
+      ],
+      "weapon_set": 0,
+      "additional_text": ""
+    },
+    {
+      "id": "45090",
+      "level_interval": [
+        24,
+        100
+      ],
+      "weapon_set": 0,
+      "additional_text": ""
+    },
+    {
+      "id": "18505",
+      "level_interval": [
+        25,
+        100
+      ],
+      "weapon_set": 0,
+      "additional_text": ""
+    },
+    {
+      "id": "53405",
+      "level_interval": [
+        26,
+        100
+      ],
+      "weapon_set": 0,
+      "additional_text": ""
+    },
+    {
+      "id": "26798",
+      "level_interval": [
+        27,
+        100
+      ],
+      "weapon_set": 0,
+      "additional_text": ""
+    },
+    {
+      "id": "9638",
+      "level_interval": [
+        28,
+        100
+      ],
+      "weapon_set": 0,
+      "additional_text": ""
+    },
+    {
+      "id": "39083",
+      "level_interval": [
+        29,
+        100
+      ],
+      "weapon_set": 0,
+      "additional_text": ""
+    },
+    {
+      "id": "17468",
+      "level_interval": [
+        30,
+        100
+      ],
+      "weapon_set": 0,
+      "additional_text": ""
+    },
+    {
+      "id": "22616",
+      "level_interval": [
+        31,
+        100
+      ],
+      "weapon_set": 0,
+      "additional_text": ""
+    },
+    {
+      "id": "14654",
+      "level_interval": [
+        32,
+        100
+      ],
+      "weapon_set": 0,
+      "additional_text": ""
+    },
+    {
+      "id": "6222",
+      "level_interval": [
+        33,
+        100
+      ],
+      "weapon_set": 0,
+      "additional_text": ""
+    },
+    {
+      "id": "57608",
+      "level_interval": [
+        34,
+        100
+      ],
+      "weapon_set": 0,
+      "additional_text": ""
+    },
+    {
+      "id": "61703",
+      "level_interval": [
+        35,
+        100
+      ],
+      "weapon_set": 0,
+      "additional_text": ""
+    },
+    {
+      "id": "9037",
+      "level_interval": [
+        36,
+        100
+      ],
+      "weapon_set": 0,
+      "additional_text": ""
+    },
+    {
+      "id": "32353",
+      "level_interval": [
+        37,
+        100
+      ],
+      "weapon_set": 0,
+      "additional_text": ""
+    },
+    {
+      "id": "17260",
+      "level_interval": [
+        38,
+        100
+      ],
+      "weapon_set": 0,
+      "additional_text": ""
+    },
+    {
+      "id": "58295",
+      "level_interval": [
+        39,
+        100
+      ],
+      "weapon_set": 0,
+      "additional_text": ""
+    },
+    {
+      "id": "47263",
+      "level_interval": [
+        40,
+        100
+      ],
+      "weapon_set": 0,
+      "additional_text": ""
+    },
+    {
+      "id": "60064",
+      "level_interval": [
+        41,
+        100
+      ],
+      "weapon_set": 0,
+      "additional_text": ""
+    },
+    {
+      "id": "3027",
+      "level_interval": [
+        42,
+        100
+      ],
+      "weapon_set": 0,
+      "additional_text": ""
+    },
+    {
+      "id": "54228",
+      "level_interval": [
+        43,
+        100
+      ],
+      "weapon_set": 0,
+      "additional_text": ""
+    },
+    {
+      "id": "64240",
+      "level_interval": [
+        44,
+        100
+      ],
+      "weapon_set": 0,
+      "additional_text": ""
+    },
+    {
+      "id": "18448",
+      "level_interval": [
+        45,
+        100
+      ],
+      "weapon_set": 0,
+      "additional_text": ""
+    },
+    {
+      "id": "30141",
+      "level_interval": [
+        46,
+        100
+      ],
+      "weapon_set": 0,
+      "additional_text": ""
+    },
+    {
+      "id": "51749",
+      "level_interval": [
+        47,
+        100
+      ],
+      "weapon_set": 0,
+      "additional_text": ""
+    },
+    {
+      "id": "6872",
+      "level_interval": [
+        48,
+        100
+      ],
+      "weapon_set": 0,
+      "additional_text": ""
+    },
+    {
+      "id": "33939",
+      "level_interval": [
+        49,
+        100
+      ],
+      "weapon_set": 0,
+      "additional_text": ""
+    },
+    {
+      "id": "62034",
+      "level_interval": [
+        50,
+        100
+      ],
+      "weapon_set": 0,
+      "additional_text": ""
+    },
+    {
+      "id": "55190",
+      "level_interval": [
+        51,
+        100
+      ],
+      "weapon_set": 0,
+      "additional_text": ""
+    },
+    {
+      "id": "28982",
+      "level_interval": [
+        52,
+        100
+      ],
+      "weapon_set": 1,
+      "additional_text": ""
+    },
+    {
+      "id": "31295",
+      "level_interval": [
+        53,
+        100
+      ],
+      "weapon_set": 1,
+      "additional_text": ""
+    },
+    {
+      "id": "9352",
+      "level_interval": [
+        54,
+        100
+      ],
+      "weapon_set": 1,
+      "additional_text": ""
+    },
+    {
+      "id": "32071",
+      "level_interval": [
+        55,
+        100
+      ],
+      "weapon_set": 1,
+      "additional_text": ""
+    },
+    {
+      "id": "15427",
+      "level_interval": [
+        56,
+        100
+      ],
+      "weapon_set": 1,
+      "additional_text": ""
+    },
+    {
+      "id": "57379",
+      "level_interval": [
+        57,
+        100
+      ],
+      "weapon_set": 1,
+      "additional_text": ""
+    },
+    {
+      "id": "31419",
+      "level_interval": [
+        52,
+        100
+      ],
+      "weapon_set": 2,
+      "additional_text": ""
+    },
+    {
+      "id": "35787",
+      "level_interval": [
+        53,
+        100
+      ],
+      "weapon_set": 2,
+      "additional_text": ""
+    },
+    {
+      "id": "42813",
+      "level_interval": [
+        54,
+        100
+      ],
+      "weapon_set": 2,
+      "additional_text": ""
+    },
+    {
+      "id": "52298",
+      "level_interval": [
+        55,
+        100
+      ],
+      "weapon_set": 2,
+      "additional_text": ""
+    },
+    {
+      "id": "31805",
+      "level_interval": [
+        56,
+        100
+      ],
+      "weapon_set": 2,
+      "additional_text": ""
+    },
+    {
+      "id": "44461",
+      "level_interval": [
+        57,
+        100
+      ],
+      "weapon_set": 2,
+      "additional_text": ""
+    },
+    {
+      "id": "54998",
+      "level_interval": [
+        58,
+        100
+      ],
+      "weapon_set": 2,
+      "additional_text": ""
+    },
+    {
+      "id": "30457",
+      "level_interval": [
+        59,
+        100
+      ],
+      "weapon_set": 0,
+      "additional_text": ""
+    },
+    {
+      "id": "54416",
+      "level_interval": [
+        60,
+        100
+      ],
+      "weapon_set": 0,
+      "additional_text": ""
+    },
+    {
+      "id": "60274",
+      "level_interval": [
+        61,
+        100
+      ],
+      "weapon_set": 0,
+      "additional_text": ""
+    },
+    {
+      "id": "19236",
+      "level_interval": [
+        62,
+        100
+      ],
+      "weapon_set": 0,
+      "additional_text": ""
+    },
+    {
+      "id": "4128",
+      "level_interval": [
+        63,
+        100
+      ],
+      "weapon_set": 0,
+      "additional_text": ""
+    },
+    {
+      "id": "54283",
+      "level_interval": [
+        64,
+        100
+      ],
+      "weapon_set": 0,
+      "additional_text": ""
+    },
+    {
+      "id": "26324",
+      "level_interval": [
+        65,
+        100
+      ],
+      "weapon_set": 0,
+      "additional_text": ""
+    },
+    {
+      "id": "27950",
+      "level_interval": [
+        66,
+        100
+      ],
+      "weapon_set": 0,
+      "additional_text": ""
+    },
+    {
+      "id": "21286",
+      "level_interval": [
+        67,
+        100
+      ],
+      "weapon_set": 0,
+      "additional_text": ""
+    },
+    {
+      "id": "45992",
+      "level_interval": [
+        68,
+        100
+      ],
+      "weapon_set": 0,
+      "additional_text": ""
+    },
+    {
+      "id": "17029",
+      "level_interval": [
+        69,
+        100
+      ],
+      "weapon_set": 0,
+      "additional_text": ""
+    },
+    {
+      "id": "21387",
+      "level_interval": [
+        70,
+        100
+      ],
+      "weapon_set": 0,
+      "additional_text": ""
+    },
+    {
+      "id": "53719",
+      "level_interval": [
+        71,
+        100
+      ],
+      "weapon_set": 0,
+      "additional_text": ""
+    },
+    {
+      "id": "59777",
+      "level_interval": [
+        72,
+        100
+      ],
+      "weapon_set": 0,
+      "additional_text": ""
+    },
+    {
+      "id": "10362",
+      "level_interval": [
+        73,
+        100
+      ],
+      "weapon_set": 0,
+      "additional_text": ""
+    },
+    {
+      "id": "9163",
+      "level_interval": [
+        74,
+        100
+      ],
+      "weapon_set": 0,
+      "additional_text": ""
+    },
+    {
+      "id": "44952",
+      "level_interval": [
+        75,
+        100
+      ],
+      "weapon_set": 0,
+      "additional_text": ""
+    },
+    {
+      "id": "60068",
+      "level_interval": [
+        58,
+        100
+      ],
+      "weapon_set": 1,
+      "additional_text": ""
+    },
+    {
+      "id": "27082",
+      "level_interval": [
+        76,
+        100
+      ],
+      "weapon_set": 0,
+      "additional_text": ""
+    },
+    {
+      "id": "3446",
+      "level_interval": [
+        77,
+        100
+      ],
+      "weapon_set": 0,
+      "additional_text": ""
+    },
+    {
+      "id": "62498",
+      "level_interval": [
+        78,
+        100
+      ],
+      "weapon_set": 0,
+      "additional_text": ""
+    },
+    {
+      "id": "51561",
+      "level_interval": [
+        79,
+        100
+      ],
+      "weapon_set": 0,
+      "additional_text": ""
+    },
+    {
+      "id": "2491",
+      "level_interval": [
+        80,
+        100
+      ],
+      "weapon_set": 0,
+      "additional_text": ""
+    },
+    {
+      "id": "7716",
+      "level_interval": [
+        81,
+        100
+      ],
+      "weapon_set": 0,
+      "additional_text": ""
+    },
+    {
+      "id": "11786",
+      "level_interval": [
+        82,
+        100
+      ],
+      "weapon_set": 0,
+      "additional_text": ""
+    },
+    {
+      "id": "29447",
+      "level_interval": [
+        83,
+        100
+      ],
+      "weapon_set": 0,
+      "additional_text": ""
+    },
+    {
+      "id": "18157",
+      "level_interval": [
+        84,
+        100
+      ],
+      "weapon_set": 0,
+      "additional_text": ""
+    },
+    {
+      "id": "55925",
+      "level_interval": [
+        59,
+        100
+      ],
+      "weapon_set": 1,
+      "additional_text": ""
+    },
+    {
+      "id": "37290",
+      "level_interval": [
+        60,
+        100
+      ],
+      "weapon_set": 1,
+      "additional_text": ""
+    },
+    {
+      "id": "28892",
+      "level_interval": [
+        61,
+        100
+      ],
+      "weapon_set": 1,
+      "additional_text": ""
+    },
+    {
+      "id": "28304",
+      "level_interval": [
+        62,
+        100
+      ],
+      "weapon_set": 1,
+      "additional_text": ""
+    },
+    {
+      "id": "52556",
+      "level_interval": [
+        63,
+        100
+      ],
+      "weapon_set": 1,
+      "additional_text": ""
+    },
+    {
+      "id": "16347",
+      "level_interval": [
+        64,
+        100
+      ],
+      "weapon_set": 1,
+      "additional_text": ""
+    },
+    {
+      "id": "52373",
+      "level_interval": [
+        65,
+        100
+      ],
+      "weapon_set": 1,
+      "additional_text": ""
+    },
+    {
+      "id": "37276",
+      "level_interval": [
+        66,
+        100
+      ],
+      "weapon_set": 1,
+      "additional_text": ""
+    },
+    {
+      "id": "48631",
+      "level_interval": [
+        59,
+        100
+      ],
+      "weapon_set": 2,
+      "additional_text": ""
+    },
+    {
+      "id": "35426",
+      "level_interval": [
+        60,
+        100
+      ],
+      "weapon_set": 2,
+      "additional_text": ""
+    },
+    {
+      "id": "8406",
+      "level_interval": [
+        61,
+        100
+      ],
+      "weapon_set": 2,
+      "additional_text": ""
+    },
+    {
+      "id": "48305",
+      "level_interval": [
+        62,
+        100
+      ],
+      "weapon_set": 2,
+      "additional_text": ""
+    },
+    {
+      "id": "6898",
+      "level_interval": [
+        63,
+        100
+      ],
+      "weapon_set": 2,
+      "additional_text": ""
+    },
+    {
+      "id": "38103",
+      "level_interval": [
+        64,
+        100
+      ],
+      "weapon_set": 2,
+      "additional_text": ""
+    },
+    {
+      "id": "25429",
+      "level_interval": [
+        65,
+        100
+      ],
+      "weapon_set": 2,
+      "additional_text": ""
+    },
+    {
+      "id": "41838",
+      "level_interval": [
+        66,
+        100
+      ],
+      "weapon_set": 2,
+      "additional_text": ""
+    },
+    {
+      "id": "5852",
+      "level_interval": [
+        1,
+        100
+      ],
+      "weapon_set": 0,
+      "additional_text": ""
+    },
+    {
+      "id": "9988",
+      "level_interval": [
+        2,
+        100
+      ],
+      "weapon_set": 0,
+      "additional_text": ""
+    },
+    {
+      "id": "61039",
+      "level_interval": [
+        3,
+        100
+      ],
+      "weapon_set": 0,
+      "additional_text": ""
+    },
+    {
+      "id": "9997",
+      "level_interval": [
+        4,
+        100
+      ],
+      "weapon_set": 0,
+      "additional_text": ""
+    },
+    {
+      "id": "14960",
+      "level_interval": [
+        5,
+        100
+      ],
+      "weapon_set": 0,
+      "additional_text": ""
+    },
+    {
+      "id": "57959",
+      "level_interval": [
+        6,
+        100
+      ],
+      "weapon_set": 0,
+      "additional_text": ""
+    },
+    {
+      "id": "13772",
+      "level_interval": [
+        7,
+        100
+      ],
+      "weapon_set": 0,
+      "additional_text": ""
+    },
+    {
+      "id": "25438",
+      "level_interval": [
+        8,
+        100
+      ],
+      "weapon_set": 0,
+      "additional_text": ""
+    },
+    {
+      "id": "64962",
+      "level_interval": [
+        9,
+        100
+      ],
+      "weapon_set": 0,
+      "additional_text": ""
+    },
+    {
+      "id": "60913",
+      "level_interval": [
+        10,
+        100
+      ],
+      "weapon_set": 0,
+      "additional_text": ""
+    }
+  ],
+  "skills": [
+    {
+      "id": "Metadata/Items/Gems/SkillGemBearMaul",
+      "level_interval": [
+        1,
+        100
+      ],
+      "additional_text": "Requires Uncut Skill Gem Tier 1",
+      "support_skills": [
+        {
+          "id": "Metadata/Items/Gems/SkillGemRapidAttacksSupport",
+          "level_interval": [
+            1,
+            44
+          ],
+          "additional_text": "Requires Uncut Support Tier 1 (+5 Dex)"
+        },
+        {
+          "id": "Metadata/Items/Gems/SkillGemRapidAttacksSupportTwo",
+          "level_interval": [
+            45,
+            100
+          ],
+          "additional_text": "Requires Uncut Support Tier 4 (+5 Dex)"
+        },
+        {
+          "id": "Metadata/Items/Gems/SkillGemRageSupport",
+          "level_interval": [
+            1,
+            44
+          ],
+          "additional_text": "Requires Uncut Support Tier 1 (+5 Str)"
+        },
+        {
+          "id": "Metadata/Items/Gems/SkillGemRageSupportTwo",
+          "level_interval": [
+            45,
+            54
+          ],
+          "additional_text": "Requires Uncut Support Tier 4 (+5 Str)"
+        },
+        {
+          "id": "Metadata/Items/Gems/SkillGemRageSupportThree",
+          "level_interval": [
+            55,
+            100
+          ],
+          "additional_text": "Requires Uncut Support Tier 5 (+5 Str)"
+        },
+        {
+          "id": "Metadata/Items/Gems/SkillGemArmourBreakSupport",
+          "level_interval": [
+            16,
+            32
+          ],
+          "additional_text": "Requires Uncut Support Tier 2 (+5 Str)"
+        },
+        {
+          "id": "Metadata/Items/Gems/SkillGemArmourBreakSupportTwo",
+          "level_interval": [
+            33,
+            33
+          ],
+          "additional_text": "Requires Uncut Support Tier 3 (+5 Str)"
+        },
+        {
+          "id": "Metadata/Items/Gems/SkillGemBrittleArmourSupport",
+          "level_interval": [
+            33,
+            44
+          ],
+          "additional_text": "Requires Uncut Support Tier 3 (+5 Int)"
+        },
+        {
+          "id": "Metadata/Items/Gems/SkillGemArmourBreakSupportThree",
+          "level_interval": [
+            45,
+            100
+          ],
+          "additional_text": "Requires Uncut Support Tier 4 (+5 Str)"
+        }
+      ]
+    },
+    {
+      "id": "Metadata/Items/Gems/SkillGemHeraldOfAsh",
+      "level_interval": [
+        10,
+        100
+      ],
+      "additional_text": "Requires Uncut Skill Gem Tier 4 (21 Str)",
+      "support_skills": [
+        {
+          "id": "Metadata/Items/Gems/SkillGemMagnifiedAreaSupport",
+          "level_interval": [
+            1,
+            32
+          ],
+          "additional_text": "Requires Uncut Support Tier 1 (+5 Int)"
+        },
+        {
+          "id": "Metadata/Items/Gems/SkillGemMagnifiedAreaSupportTwo",
+          "level_interval": [
+            33,
+            100
+          ],
+          "additional_text": "Requires Uncut Support Tier 3 (+5 Int)"
+        }
+      ]
+    },
+    {
+      "id": "Metadata/Items/Gems/SkillGemWolfPounce",
+      "level_interval": [
+        6,
+        100
+      ],
+      "additional_text": "Requires Uncut Skill Gem Tier 3 (7 Str, 7 Int)",
+      "support_skills": [
+        {
+          "id": "Metadata/Items/Gems/SkillGemFistOfWarSupport",
+          "level_interval": [
+            1,
+            32
+          ],
+          "additional_text": "Requires Uncut Support Tier 1 (+5 Str)"
+        },
+        {
+          "id": "Metadata/Items/Gems/SkillGemFistOfWarSupportTwo",
+          "level_interval": [
+            33,
+            54
+          ],
+          "additional_text": "Requires Uncut Support Tier 3 (+5 Str)"
+        },
+        {
+          "id": "Metadata/Items/Gems/SkillGemFistOfWarSupportThree",
+          "level_interval": [
+            55,
+            100
+          ],
+          "additional_text": "Requires Uncut Support Tier 5 (+5 Str)"
+        },
+        {
+          "id": "Metadata/Items/Gems/SkillGemCraterSupport",
+          "level_interval": [
+            16,
+            100
+          ],
+          "additional_text": "Requires Uncut Support Tier 2 (+5 Str)"
+        },
+        {
+          "id": "Metadata/Items/Gems/SkillGemMarkForDeathSupport",
+          "level_interval": [
+            16,
+            44
+          ],
+          "additional_text": "Requires Uncut Support Tier 2 (+5 Str)"
+        },
+        {
+          "id": "Metadata/Items/Gems/SkillGemMarkForDeathSupportTwo",
+          "level_interval": [
+            45,
+            100
+          ],
+          "additional_text": "Requires Uncut Support Tier 4 (+5 Str)"
+        },
+        {
+          "id": "Metadata/Items/Gems/SkillGemEternalMarkSupport",
+          "level_interval": [
+            33,
+            100
+          ],
+          "additional_text": "Requires Uncut Support Tier 3 (+5 Int)"
+        }
+      ]
+    },
+    {
+      "id": "Metadata/Items/Gems/SkillGemFuriousSlam",
+      "level_interval": [
+        1,
+        100
+      ],
+      "additional_text": "Requires Uncut Skill Gem Tier 1 (2 Str, 2 Int)",
+      "support_skills": [
+        {
+          "id": "Metadata/Items/Gems/SkillGemFistOfWarSupport",
+          "level_interval": [
+            1,
+            32
+          ],
+          "additional_text": "Requires Uncut Support Tier 1 (+5 Str)"
+        },
+        {
+          "id": "Metadata/Items/Gems/SkillGemFistOfWarSupportTwo",
+          "level_interval": [
+            33,
+            54
+          ],
+          "additional_text": "Requires Uncut Support Tier 3 (+5 Str)"
+        },
+        {
+          "id": "Metadata/Items/Gems/SkillGemFistOfWarSupportThree",
+          "level_interval": [
+            55,
+            100
+          ],
+          "additional_text": "Requires Uncut Support Tier 5 (+5 Str)"
+        },
+        {
+          "id": "Metadata/Items/Gems/SkillGemRapidAttacksSupport",
+          "level_interval": [
+            1,
+            44
+          ],
+          "additional_text": "Requires Uncut Support Tier 1 (+5 Dex)"
+        },
+        {
+          "id": "Metadata/Items/Gems/SkillGemRapidAttacksSupportTwo",
+          "level_interval": [
+            45,
+            100
+          ],
+          "additional_text": "Requires Uncut Support Tier 4 (+5 Dex)"
+        },
+        {
+          "id": "Metadata/Items/Gems/SkillGemAftershockChanceSupport",
+          "level_interval": [
+            16,
+            16
+          ],
+          "additional_text": "Requires Uncut Support Tier 2 (+5 Str)"
+        },
+        {
+          "id": "Metadata/Items/Gems/SkillGemSlamAftershocksSupport",
+          "level_interval": [
+            16,
+            44
+          ],
+          "additional_text": "Requires Uncut Support Tier 2 (+5 Str)"
+        },
+        {
+          "id": "Metadata/Items/Gems/SkillGemAftershockChanceSupportTwo",
+          "level_interval": [
+            45,
+            100
+          ],
+          "additional_text": "Requires Uncut Support Tier 4 (+5 Str)"
+        },
+        {
+          "id": "Metadata/Items/Gems/SkillGemCloseCombatSupport",
+          "level_interval": [
+            33,
+            54
+          ],
+          "additional_text": "Requires Uncut Support Tier 3 (+5 Dex)"
+        },
+        {
+          "id": "Metadata/Items/Gems/SkillGemCloseCombatSupportTwo",
+          "level_interval": [
+            55,
+            100
+          ],
+          "additional_text": "Requires Uncut Support Tier 5 (+5 Dex)"
+        },
+        {
+          "id": "Metadata/Items/Gems/SkillGemMagnifiedAreaSupport",
+          "level_interval": [
+            1,
+            32
+          ],
+          "additional_text": "Requires Uncut Support Tier 1 (+5 Int)"
+        },
+        {
+          "id": "Metadata/Items/Gems/SkillGemMagnifiedAreaSupportTwo",
+          "level_interval": [
+            33,
+            100
+          ],
+          "additional_text": "Requires Uncut Support Tier 3 (+5 Int)"
+        }
+      ]
+    },
+    {
+      "id": "Metadata/Items/Gems/SkillGemFerociousRoar",
+      "level_interval": [
+        22,
+        100
+      ],
+      "additional_text": "Requires Uncut Skill Gem Tier 7 (10 Str, 10 Int)",
+      "support_skills": [
+        {
+          "id": "Metadata/Items/Gems/SkillGemRagingCrySupport",
+          "level_interval": [
+            16,
+            100
+          ],
+          "additional_text": "Requires Uncut Support Tier 2 (+5 Str)"
+        },
+        {
+          "id": "Metadata/Items/Gems/SkillGemTirelessSupport",
+          "level_interval": [
+            1,
+            100
+          ],
+          "additional_text": "Requires Uncut Support Tier 1 (+5 Str)"
+        }
+      ]
+    },
+    {
+      "id": "Metadata/Items/Gems/SkillGemInfernallCry",
+      "level_interval": [
+        6,
+        100
+      ],
+      "additional_text": "Requires Uncut Skill Gem Tier 3 (14 Str)",
+      "support_skills": []
+    },
+    {
+      "id": "Metadata/Items/Gems/SkillGemWarBanner",
+      "level_interval": [
+        10,
+        100
+      ],
+      "additional_text": "Requires Uncut Skill Gem Tier 4 (11 Str, 11 Dex)",
+      "support_skills": [
+        {
+          "id": "Metadata/Items/Gems/SkillGemMagnifiedAreaSupport",
+          "level_interval": [
+            1,
+            32
+          ],
+          "additional_text": "Requires Uncut Support Tier 1 (+5 Int)"
+        },
+        {
+          "id": "Metadata/Items/Gems/SkillGemMagnifiedAreaSupportTwo",
+          "level_interval": [
+            33,
+            100
+          ],
+          "additional_text": "Requires Uncut Support Tier 3 (+5 Int)"
+        },
+        {
+          "id": "Metadata/Items/Gems/SkillGemProlongedDurationSupport",
+          "level_interval": [
+            1,
+            32
+          ],
+          "additional_text": "Requires Uncut Support Tier 1 (+5 Str)"
+        },
+        {
+          "id": "Metadata/Items/Gems/SkillGemProlongedDurationSupportTwo",
+          "level_interval": [
+            33,
+            100
+          ],
+          "additional_text": "Requires Uncut Support Tier 3 (+5 Str)"
+        }
+      ]
+    },
+    {
+      "id": "Metadata/Items/Gems/SkillGemWalkingCalamity",
+      "level_interval": [
+        52,
+        100
+      ],
+      "additional_text": "Requires Uncut Skill Gem Tier 13 (16 Str, 16 Int)",
+      "support_skills": [
+        {
+          "id": "Metadata/Items/Gems/SkillGemElementalArmamentSupport",
+          "level_interval": [
+            1,
+            15
+          ],
+          "additional_text": "Requires Uncut Support Tier 1 (+5 Str)"
+        },
+        {
+          "id": "Metadata/Items/Gems/SkillGemElementalArmamentSupportTwo",
+          "level_interval": [
+            16,
+            54
+          ],
+          "additional_text": "Requires Uncut Support Tier 2 (+5 Str)"
+        },
+        {
+          "id": "Metadata/Items/Gems/SkillGemElementalArmamentSupportThree",
+          "level_interval": [
+            55,
+            100
+          ],
+          "additional_text": "Requires Uncut Support Tier 5 (+5 Str)"
+        },
+        {
+          "id": "Metadata/Items/Gems/SkillGemProlongedDurationSupport",
+          "level_interval": [
+            1,
+            32
+          ],
+          "additional_text": "Requires Uncut Support Tier 1 (+5 Str)"
+        },
+        {
+          "id": "Metadata/Items/Gems/SkillGemProlongedDurationSupportTwo",
+          "level_interval": [
+            33,
+            100
+          ],
+          "additional_text": "Requires Uncut Support Tier 3 (+5 Str)"
+        },
+        {
+          "id": "Metadata/Items/Gems/SkillGemConcentratedAreaSupport",
+          "level_interval": [
+            1,
+            100
+          ],
+          "additional_text": "Requires Uncut Support Tier 1 (+5 Int)"
+        },
+        {
+          "id": "Metadata/Items/Gems/SkillGemHourglassSupport",
+          "level_interval": [
+            1,
+            100
+          ],
+          "additional_text": "Requires Uncut Support Tier 1 (+5 Int)"
+        }
+      ]
+    },
+    {
+      "id": "Metadata/Items/Gems/SkillGemBearRampage",
+      "level_interval": [
+        41,
+        100
+      ],
+      "additional_text": "Requires Uncut Skill Gem Tier 11 (14 Str, 14 Int)",
+      "support_skills": [
+        {
+          "id": "Metadata/Items/Gems/SkillGemBurgeonSupport",
+          "level_interval": [
+            1,
+            44
+          ],
+          "additional_text": "Requires Uncut Support Tier 1 (+5 Int)"
+        },
+        {
+          "id": "Metadata/Items/Gems/SkillGemBurgeonSupportTwo",
+          "level_interval": [
+            45,
+            100
+          ],
+          "additional_text": "Requires Uncut Support Tier 4 (+5 Int)"
+        },
+        {
+          "id": "Metadata/Items/Gems/SkillGemMomentumSupport",
+          "level_interval": [
+            16,
+            100
+          ],
+          "additional_text": "Requires Uncut Support Tier 2 (+5 Dex)"
+        },
+        {
+          "id": "Metadata/Items/Gems/SkillGemAftershockChanceSupport",
+          "level_interval": [
+            16,
+            44
+          ],
+          "additional_text": "Requires Uncut Support Tier 2 (+5 Str)"
+        },
+        {
+          "id": "Metadata/Items/Gems/SkillGemAftershockChanceSupportTwo",
+          "level_interval": [
+            45,
+            100
+          ],
+          "additional_text": "Requires Uncut Support Tier 4 (+5 Str)"
+        },
+        {
+          "id": "Metadata/Items/Gems/SkillGemCloseCombatSupport",
+          "level_interval": [
+            33,
+            54
+          ],
+          "additional_text": "Requires Uncut Support Tier 3 (+5 Dex)"
+        },
+        {
+          "id": "Metadata/Items/Gems/SkillGemCloseCombatSupportTwo",
+          "level_interval": [
+            55,
+            100
+          ],
+          "additional_text": "Requires Uncut Support Tier 5 (+5 Dex)"
+        }
+      ]
+    },
+    {
+      "id": "Metadata/Items/Gems/SkillGemEternalRage",
+      "level_interval": [
+        58,
+        100
+      ],
+      "additional_text": "Requires Uncut Skill Gem Tier 14 (28 Str)",
+      "support_skills": []
+    }
+  ],
+  "items": [
+    {
+      "inventory_id": "Weapon1",
+      "slot_x": 0,
+      "slot_y": 0,
+      "level_interval": [
+        1,
+        100
+      ],
+      "unique_name": "",
+      "additional_text": "Phys dmg, Attack speed, +lvl, elemental dmg with attack"
+    },
+    {
+      "inventory_id": "BodyArmour",
+      "slot_x": 0,
+      "slot_y": 0,
+      "level_interval": [
+        1,
+        100
+      ],
+      "unique_name": "",
+      "additional_text": "Kitava"
+    },
+    {
+      "inventory_id": "Belt",
+      "slot_x": 0,
+      "slot_y": 0,
+      "level_interval": [
+        1,
+        100
+      ],
+      "unique_name": "",
+      "additional_text": "HP, res"
+    },
+    {
+      "inventory_id": "Helmet",
+      "slot_x": 0,
+      "slot_y": 0,
+      "level_interval": [
+        1,
+        100
+      ],
+      "unique_name": "",
+      "additional_text": "Armour, HP, res, armour for ele"
+    },
+    {
+      "inventory_id": "Boots",
+      "slot_x": 0,
+      "slot_y": 0,
+      "level_interval": [
+        1,
+        100
+      ],
+      "unique_name": "",
+      "additional_text": "MS, Armour, HP, res, armour for ele"
+    },
+    {
+      "inventory_id": "Gloves",
+      "slot_x": 0,
+      "slot_y": 0,
+      "level_interval": [
+        1,
+        100
+      ],
+      "unique_name": "",
+      "additional_text": "+lvl, Armour, HP, res, armour for ele"
+    },
+    {
+      "inventory_id": "Ring1",
+      "slot_x": 0,
+      "slot_y": 0,
+      "level_interval": [
+        1,
+        100
+      ],
+      "unique_name": "",
+      "additional_text": "HP, res, flat dmg"
+    },
+    {
+      "inventory_id": "Ring2",
+      "slot_x": 0,
+      "slot_y": 0,
+      "level_interval": [
+        1,
+        100
+      ],
+      "unique_name": "",
+      "additional_text": "HP, res, flat dmg"
+    },
+    {
+      "inventory_id": "Amulet",
+      "slot_x": 0,
+      "slot_y": 0,
+      "level_interval": [
+        1,
+        100
+      ],
+      "unique_name": "",
+      "additional_text": "+lvl, HP, res"
+    }
+  ]
+}
