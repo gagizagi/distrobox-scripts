@@ -2,5 +2,5 @@
 
 GoLand - natively via ujust install-jetbrains-toolbox > IDEA toolbox > standalone
 
-```ln -s ./ssh ~/.ssh/config```
-```ln -s ./bash_aliases ~/.bash_aliases```
+```ln -s <PATH_TO_DIR>/ssh ~/.ssh/config```
+```ln -s <PATH_TO_DIR>/bash_scripts ~/.bashrc.d```

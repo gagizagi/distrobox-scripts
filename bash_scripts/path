@@ -1,0 +1,2 @@
+# Golang binaries
+export PATH="$PATH:$HOME/go/go1.26.1/bin"
