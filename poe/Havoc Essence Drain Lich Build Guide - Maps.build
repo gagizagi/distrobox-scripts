@@ -1,0 +1,1575 @@
+{
+  "name": "Havoc Essence Drain Lich Build Guide - Maps",
+  "author": "havoc616",
+  "link": "https://maxroll.gg/poe2/planner/3d3vl0yn",
+  "description": "<s>{Written Guide: <i>{<rgb(162, 207, 251)>{https://maxroll.gg/poe2/build-guides/essence-drain-lich-build-guide}}\r\nLeveling Guide: <i>{<rgb(162, 207, 251)>{https://maxroll.gg/poe2/build-guides/essence-drain-lich-leveling-build-guide}}\r\n\r\n- <rgb(27, 162, 155)>{Essence Drain} is comboed with <rgb(27, 162, 155)>{Contagion} for Massive AoE Clear.\r\n- <rgb(27, 162, 155)>{Dark Effigy} is comboed with <rgb(27, 162, 155)>{Ravenous Swarm} and other Chaos DoT Debuffs for tons of Single Target Damage\r\n- Survive with a Large Energy Shield Pool, pseudo damage reduction via <rgb(5, 122, 240)>{Eternal Life}, heavily slowed enemies with <rgb(27, 162, 155)>{Blasphemy} <rgb(27, 162, 155)>{Temporal Chains}, and instantly recharge your Energy Shield with <rgb(27, 162, 155)>{Convalescence}}",
+  "ascendancy": "Witch3",
+  "passives": [
+    {
+      "id": "energy_shield21",
+      "level_interval": [
+        0,
+        100
+      ],
+      "additional_text": "<b>{<m>{Allocation Step #1}}\r\n<s>{- }<i>{<s>{Next node: Practiced Signs}}"
+    },
+    {
+      "id": "cast_speed36_",
+      "level_interval": [
+        0,
+        100
+      ],
+      "additional_text": "<b>{<m>{Allocation Step #2}}\r\n<s>{- }<i>{<s>{Next node: Cast Speed}}"
+    },
+    {
+      "id": "cast_speed15_",
+      "level_interval": [
+        0,
+        100
+      ],
+      "additional_text": "<b>{<m>{Allocation Step #3}}\r\n<s>{- }<i>{<s>{Next node: Cast Speed}}"
+    },
+    {
+      "id": "cast_speed10",
+      "level_interval": [
+        0,
+        100
+      ],
+      "additional_text": "<b>{<m>{Allocation Step #4}}\r\n<s>{- }<i>{<s>{Next node: Raw Power}}"
+    },
+    {
+      "id": "witch_sorceress_notable1",
+      "level_interval": [
+        0,
+        100
+      ],
+      "additional_text": "<b>{<m>{Allocation Step #5}}\r\n<s>{- }<i>{<s>{Next node: Elemental Damage}}"
+    },
+    {
+      "id": "elemental14",
+      "level_interval": [
+        0,
+        100
+      ],
+      "additional_text": "<b>{<m>{Allocation Step #6}}\r\n<s>{- }<i>{<s>{Next node: Infused Spell Damage}}"
+    },
+    {
+      "id": "lightning6",
+      "level_interval": [
+        0,
+        100
+      ],
+      "additional_text": "<b>{<m>{Allocation Step #7}}\r\n<s>{- }<i>{<s>{Next node: Principal Infusion}}"
+    },
+    {
+      "id": "lightning34",
+      "level_interval": [
+        0,
+        100
+      ],
+      "additional_text": "<b>{<m>{Allocation Step #8}}\r\n<s>{- }<i>{<s>{Next node: Attribute (<rgb(134, 189, 163)>{Attribute})}}"
+    },
+    {
+      "id": "intelligence15",
+      "level_interval": [
+        0,
+        100
+      ],
+      "additional_text": "<b>{<m>{Allocation Step #9}}\r\n<s>{- }<i>{<s>{Next node: Attribute (<rgb(200, 103, 110)>{Attribute})}}\r\n\r\n<b>{<m>{Option:}}\r\n<s>{<rgb(134, 189, 163)>{Attribute} is recommended}"
+    },
+    {
+      "id": "intelligence16",
+      "level_interval": [
+        0,
+        100
+      ],
+      "additional_text": "<b>{<m>{Allocation Step #10}}\r\n<s>{- }<i>{<s>{Next node: Attribute}}\r\n\r\n<b>{<m>{Option:}}\r\n<s>{<rgb(200, 103, 110)>{Attribute} is recommended}"
+    },
+    {
+      "id": "intelligence54",
+      "level_interval": [
+        0,
+        100
+      ],
+      "additional_text": "<b>{<m>{Allocation Step #11}}\r\n<s>{- }<i>{<s>{Next node: Crystalline Phylactery}}"
+    },
+    {
+      "id": "AscendancyWitch3Notable1",
+      "level_interval": [
+        0,
+        100
+      ],
+      "additional_text": "<b>{<m>{Allocation Step #12}}\r\n<s>{- }<i>{<s>{Next node: Attribute}}"
+    },
+    {
+      "id": "intelligence53_",
+      "level_interval": [
+        0,
+        100
+      ],
+      "additional_text": "<b>{<m>{Allocation Step #13}}\r\n<s>{- }<i>{<s>{Next node: Energy Shield}}"
+    },
+    {
+      "id": "AscendancyWitch3Small9",
+      "level_interval": [
+        0,
+        100
+      ],
+      "additional_text": "<b>{<m>{Allocation Step #14}}\r\n<s>{- }<i>{<s>{Next node: Attribute}}"
+    },
+    {
+      "id": "intelligence17",
+      "level_interval": [
+        0,
+        100
+      ],
+      "additional_text": "<b>{<m>{Allocation Step #15}}\r\n<s>{- }<i>{<s>{Next node: Attribute}}"
+    },
+    {
+      "id": "intelligence84",
+      "level_interval": [
+        0,
+        100
+      ],
+      "additional_text": "<b>{<m>{Allocation Step #16}}\r\n<s>{- }<i>{<s>{Next node: Attribute}}"
+    },
+    {
+      "id": "intelligence85",
+      "level_interval": [
+        0,
+        100
+      ],
+      "additional_text": "<b>{<m>{Allocation Step #17}}\r\n<s>{- }<i>{<s>{Next node: Chaos Damage and Duration}}"
+    },
+    {
+      "id": "chaos1",
+      "level_interval": [
+        0,
+        100
+      ],
+      "additional_text": "<b>{<m>{Allocation Step #18}}\r\n<s>{- }<i>{<s>{Next node: Chaos Damage and Duration}}"
+    },
+    {
+      "id": "chaos2",
+      "level_interval": [
+        0,
+        100
+      ],
+      "additional_text": "<b>{<m>{Allocation Step #19}}\r\n<s>{- }<i>{<s>{Next node: Chaos Damage and Duration}}"
+    },
+    {
+      "id": "chaos12",
+      "level_interval": [
+        0,
+        100
+      ],
+      "additional_text": "<b>{<m>{Allocation Step #20}}\r\n<s>{- }<i>{<s>{Next node: Lingering Horror}}"
+    },
+    {
+      "id": "chaos37",
+      "level_interval": [
+        0,
+        100
+      ],
+      "additional_text": "<b>{<m>{Allocation Step #21}}\r\n<s>{- }<i>{<s>{Next node: Energy Shield}}"
+    },
+    {
+      "id": "AscendancyWitch3Small7",
+      "level_interval": [
+        0,
+        100
+      ],
+      "additional_text": "<b>{<m>{Allocation Step #22}}\r\n<s>{- }<i>{<s>{Next node: Eldritch Empowerment}}"
+    },
+    {
+      "id": "AscendancyWitch3Notable8",
+      "level_interval": [
+        0,
+        100
+      ],
+      "additional_text": "<b>{<m>{Allocation Step #23}}\r\n<s>{- }<i>{<s>{Next node: Attribute}}"
+    },
+    {
+      "id": "intelligence35_",
+      "level_interval": [
+        0,
+        100
+      ],
+      "additional_text": "<b>{<m>{Allocation Step #24}}\r\n<s>{- }<i>{<s>{Next node: Energy Shield Delay}}"
+    },
+    {
+      "id": "energy_shield_recovery21",
+      "level_interval": [
+        0,
+        100
+      ],
+      "additional_text": "<b>{<m>{Allocation Step #25}}\r\n<s>{- }<i>{<s>{Next node: Energy Shield Delay}}"
+    },
+    {
+      "id": "energy_shield_recovery31",
+      "level_interval": [
+        0,
+        100
+      ],
+      "additional_text": "<b>{<m>{Allocation Step #26}}\r\n<s>{- }<i>{<s>{Next node: Energy Shield Delay}}"
+    },
+    {
+      "id": "energy_shield_recovery30__",
+      "level_interval": [
+        0,
+        100
+      ],
+      "additional_text": "<b>{<m>{Allocation Step #27}}\r\n<s>{- }<i>{<s>{Next node: Energy Shield}}"
+    },
+    {
+      "id": "energy_shield12",
+      "level_interval": [
+        0,
+        100
+      ],
+      "additional_text": "<b>{<m>{Allocation Step #28}}\r\n<s>{- }<i>{<s>{Next node: Energy Shield}}"
+    },
+    {
+      "id": "energy_shield16",
+      "level_interval": [
+        0,
+        100
+      ],
+      "additional_text": "<b>{<m>{Allocation Step #29}}\r\n<s>{- }<i>{<s>{Next node: Melding}}"
+    },
+    {
+      "id": "energy_shield35",
+      "level_interval": [
+        0,
+        100
+      ],
+      "additional_text": "<b>{<m>{Allocation Step #30}}\r\n<s>{- }<i>{<s>{Next node: Stun and Ailment Threshold from Energy Shield}}"
+    },
+    {
+      "id": "energy_shield11",
+      "level_interval": [
+        0,
+        100
+      ],
+      "additional_text": "<b>{<m>{Allocation Step #31}}\r\n<s>{- }<i>{<s>{Next node: Mana Blessing}}"
+    },
+    {
+      "id": "mana18",
+      "level_interval": [
+        0,
+        100
+      ],
+      "additional_text": "<b>{<m>{Allocation Step #32}}\r\n<s>{- }<i>{<s>{Next node: Dampening Shield}}"
+    },
+    {
+      "id": "energy_shield37",
+      "level_interval": [
+        0,
+        100
+      ],
+      "additional_text": "<b>{<m>{Allocation Step #33}}\r\n<s>{- }<i>{<s>{Next node: Attribute}}"
+    },
+    {
+      "id": "intelligence6",
+      "level_interval": [
+        0,
+        100
+      ],
+      "additional_text": "<b>{<m>{Allocation Step #34}}\r\n<s>{- }<i>{<s>{Next node: Attribute}}"
+    },
+    {
+      "id": "attributes21",
+      "level_interval": [
+        0,
+        100
+      ],
+      "additional_text": "<b>{<m>{Allocation Step #35}}\r\n<s>{- }<i>{<s>{Next node: [Jewel] Socket}}"
+    },
+    {
+      "id": "jewel_slot1972",
+      "level_interval": [
+        0,
+        100
+      ],
+      "additional_text": "<b>{<m>{Allocation Step #36}}\r\n<s>{- }<i>{<s>{Next node: Attribute}}"
+    },
+    {
+      "id": "intelligence46",
+      "level_interval": [
+        0,
+        100
+      ],
+      "additional_text": "<b>{<m>{Allocation Step #37}}\r\n<s>{- }<i>{<s>{Next node: Attribute}}"
+    },
+    {
+      "id": "intelligence47",
+      "level_interval": [
+        0,
+        100
+      ],
+      "additional_text": "<b>{<m>{Allocation Step #38}}\r\n<s>{- }<i>{<s>{Next node: Energy Shield}}"
+    },
+    {
+      "id": "energy_shield15",
+      "level_interval": [
+        0,
+        100
+      ],
+      "additional_text": "<b>{<m>{Allocation Step #39}}\r\n<s>{- }<i>{<s>{Next node: Energy Shield}}"
+    },
+    {
+      "id": "energy_shield27",
+      "level_interval": [
+        0,
+        100
+      ],
+      "additional_text": "<b>{<m>{Allocation Step #40}}\r\n<s>{- }<i>{<s>{Next node: Energy Shield}}"
+    },
+    {
+      "id": "energy_shield14",
+      "level_interval": [
+        0,
+        100
+      ],
+      "additional_text": "<b>{<m>{Allocation Step #41}}\r\n<s>{- }<i>{<s>{Next node: Preservation}}"
+    },
+    {
+      "id": "duration6",
+      "level_interval": [
+        0,
+        100
+      ],
+      "additional_text": "<b>{<m>{Allocation Step #42}}\r\n<s>{- }<i>{<s>{Next node: Attribute}}"
+    },
+    {
+      "id": "intelligence57",
+      "level_interval": [
+        0,
+        100
+      ],
+      "additional_text": "<b>{<m>{Allocation Step #43}}\r\n<s>{- }<i>{<s>{Next node: Attribute}}"
+    },
+    {
+      "id": "intelligence56",
+      "level_interval": [
+        0,
+        100
+      ],
+      "additional_text": "<b>{<m>{Allocation Step #44}}\r\n<s>{- }<i>{<s>{Next node: Attribute}}"
+    },
+    {
+      "id": "intelligence45",
+      "level_interval": [
+        0,
+        100
+      ],
+      "additional_text": "<b>{<m>{Allocation Step #45}}\r\n<s>{- }<i>{<s>{Next node: Attribute}}"
+    },
+    {
+      "id": "intelligence58",
+      "level_interval": [
+        0,
+        100
+      ],
+      "additional_text": "<b>{<m>{Allocation Step #46}}\r\n<s>{- }<i>{<s>{Next node: Whispers of Doom}}"
+    },
+    {
+      "id": "passive_keystone_whispers_of_doom",
+      "level_interval": [
+        0,
+        100
+      ],
+      "additional_text": "<b>{<m>{Allocation Step #47}}\r\n<s>{- }<i>{<s>{Next node: Attribute}}"
+    },
+    {
+      "id": "intelligence59",
+      "level_interval": [
+        0,
+        100
+      ],
+      "additional_text": "<b>{<m>{Allocation Step #48}}\r\n<s>{- }<i>{<s>{Next node: Ingenuity}}"
+    },
+    {
+      "id": "intelligence101_",
+      "level_interval": [
+        0,
+        100
+      ],
+      "additional_text": "<b>{<m>{Allocation Step #49}}\r\n<s>{- }<i>{<s>{Next node: Attribute}}"
+    },
+    {
+      "id": "intelligence51",
+      "level_interval": [
+        0,
+        100
+      ],
+      "additional_text": "<b>{<m>{Allocation Step #50}}\r\n<s>{- }<i>{<s>{Next node: [Jewel] Socket}}"
+    },
+    {
+      "id": "jewel_slot1969",
+      "level_interval": [
+        0,
+        100
+      ],
+      "additional_text": "<b>{<m>{Allocation Step #51}}\r\n<s>{- }<i>{<s>{Next node: Increased Duration}}"
+    },
+    {
+      "id": "duration10",
+      "level_interval": [
+        0,
+        100
+      ],
+      "additional_text": "<b>{<m>{Allocation Step #52}}\r\n<s>{- }<i>{<s>{Next node: Increased Duration}}"
+    },
+    {
+      "id": "duration12",
+      "level_interval": [
+        0,
+        100
+      ],
+      "additional_text": "<b>{<m>{Allocation Step #53}}\r\n<s>{- }<i>{<s>{Next node: Intelligence}}"
+    },
+    {
+      "id": "intelligence102",
+      "level_interval": [
+        0,
+        100
+      ],
+      "additional_text": "<b>{<m>{Allocation Step #54}}\r\n<s>{- }<i>{<s>{Next node: Energy Shield}}"
+    },
+    {
+      "id": "energy_shield46_",
+      "level_interval": [
+        0,
+        100
+      ],
+      "additional_text": "<b>{<m>{Allocation Step #55}}\r\n<s>{- }<i>{<s>{Next node: Patient Barrier}}"
+    },
+    {
+      "id": "energy_shield33_",
+      "level_interval": [
+        0,
+        100
+      ],
+      "additional_text": "<b>{<m>{Allocation Step #56}}\r\n<s>{- }<i>{<s>{Next node: Attribute}}"
+    },
+    {
+      "id": "intelligence60",
+      "level_interval": [
+        0,
+        100
+      ],
+      "additional_text": "<b>{<m>{Allocation Step #57}}\r\n<s>{- }<i>{<s>{Next node: Attribute}}"
+    },
+    {
+      "id": "attributes1",
+      "level_interval": [
+        0,
+        100
+      ],
+      "additional_text": "<b>{<m>{Allocation Step #58}}\r\n<s>{- }<i>{<s>{Next node: Spell Damage}}"
+    },
+    {
+      "id": "projectile_spells1",
+      "level_interval": [
+        0,
+        100
+      ],
+      "additional_text": "<b>{<m>{Allocation Step #59}}\r\n<s>{- }<i>{<s>{Next node: Spell Damage and Projectile Speed}}"
+    },
+    {
+      "id": "projectile_spells3",
+      "level_interval": [
+        0,
+        100
+      ],
+      "additional_text": "<b>{<m>{Allocation Step #60}}\r\n<s>{- }<i>{<s>{Next node: Turn the Clock Forward}}"
+    },
+    {
+      "id": "projectile_spells9",
+      "level_interval": [
+        0,
+        100
+      ],
+      "additional_text": "<b>{<m>{Allocation Step #61}}\r\n<s>{- }<i>{<s>{Next node: Energy Shield Delay}}"
+    },
+    {
+      "id": "energy_shield_recovery26",
+      "level_interval": [
+        0,
+        100
+      ],
+      "additional_text": "<b>{<m>{Allocation Step #62}}\r\n<s>{- }<i>{<s>{Next node: Energy Shield Delay}}"
+    },
+    {
+      "id": "energy_shield_recovery27",
+      "level_interval": [
+        0,
+        100
+      ],
+      "additional_text": "<b>{<m>{Allocation Step #63}}\r\n<s>{- }<i>{<s>{Next node: Energy Shield Delay}}"
+    },
+    {
+      "id": "energy_shield_recovery28",
+      "level_interval": [
+        0,
+        100
+      ],
+      "additional_text": "<b>{<m>{Allocation Step #64}}\r\n<s>{- }<i>{<s>{Next node: Convalescence}}"
+    },
+    {
+      "id": "energy_shield_recovery22",
+      "level_interval": [
+        0,
+        100
+      ],
+      "additional_text": "<b>{<m>{Allocation Step #65}}\r\n<s>{- }<i>{<s>{Next node: [Jewel] Socket}}"
+    },
+    {
+      "id": "jewel_slot1979",
+      "level_interval": [
+        0,
+        100
+      ],
+      "additional_text": "<b>{<m>{Allocation Step #66}}\r\n<s>{- }<i>{<s>{Next node: Attribute}}"
+    },
+    {
+      "id": "intelligence69",
+      "level_interval": [
+        0,
+        100
+      ],
+      "additional_text": "<b>{<m>{Allocation Step #67}}\r\n<s>{- }<i>{<s>{Next node: Attribute}}"
+    },
+    {
+      "id": "intelligence68",
+      "level_interval": [
+        0,
+        100
+      ],
+      "additional_text": "<b>{<m>{Allocation Step #68}}\r\n<s>{- }<i>{<s>{Next node: Energy Shield}}"
+    },
+    {
+      "id": "energy_shield24",
+      "level_interval": [
+        0,
+        100
+      ],
+      "additional_text": "<b>{<m>{Allocation Step #69}}\r\n<s>{- }<i>{<s>{Next node: Energy Shield}}"
+    },
+    {
+      "id": "energy_shield23",
+      "level_interval": [
+        0,
+        100
+      ],
+      "additional_text": "<b>{<m>{Allocation Step #70}}\r\n<s>{- }<i>{<s>{Next node: Enhanced Barrier}}"
+    },
+    {
+      "id": "energy_shield36",
+      "level_interval": [
+        0,
+        100
+      ],
+      "additional_text": "<b>{<m>{Allocation Step #71}}\r\n<s>{- }<i>{<s>{Next node: Attribute}}"
+    },
+    {
+      "id": "intelligence52",
+      "level_interval": [
+        0,
+        100
+      ],
+      "additional_text": "<b>{<m>{Allocation Step #72}}\r\n<s>{- }<i>{<s>{Next node: Attribute}}"
+    },
+    {
+      "id": "attributes12",
+      "level_interval": [
+        0,
+        100
+      ],
+      "additional_text": "<b>{<m>{Allocation Step #73}}\r\n<s>{- }<i>{<s>{Next node: Deflection and Energy Shield Delay}}"
+    },
+    {
+      "id": "energy_shield_recovery8",
+      "level_interval": [
+        0,
+        100
+      ],
+      "additional_text": "<b>{<m>{Allocation Step #74}}\r\n<s>{- }<i>{<s>{Next node: Deflection and Energy Shield Delay}}"
+    },
+    {
+      "id": "energy_shield_recovery7",
+      "level_interval": [
+        0,
+        100
+      ],
+      "additional_text": "<b>{<m>{Allocation Step #75}}\r\n<s>{- }<i>{<s>{Next node: Deflection and Energy Shield Delay}}"
+    },
+    {
+      "id": "energy_shield_recovery6",
+      "level_interval": [
+        0,
+        100
+      ],
+      "additional_text": "<b>{<m>{Allocation Step #76}}\r\n<s>{- }<i>{<s>{Next node: The Soul Meridian}}"
+    },
+    {
+      "id": "energy_shield_recovery13",
+      "level_interval": [
+        0,
+        100
+      ],
+      "additional_text": "<b>{<m>{Allocation Step #77}}\r\n<s>{- }<i>{<s>{Next node: Spell Damage}}"
+    },
+    {
+      "id": "spells10",
+      "level_interval": [
+        0,
+        100
+      ],
+      "additional_text": "<b>{<m>{Allocation Step #78}}\r\n<s>{- }<i>{<s>{Next node: Cast Speed}}"
+    },
+    {
+      "id": "cast_speed4",
+      "level_interval": [
+        0,
+        100
+      ],
+      "additional_text": "<b>{<m>{Allocation Step #79}}\r\n<s>{- }<i>{<s>{Next node: Effervescent}}"
+    },
+    {
+      "id": "cast_speed32",
+      "level_interval": [
+        0,
+        100
+      ],
+      "additional_text": "<b>{<m>{Allocation Step #80}}\r\n<s>{- }<i>{<s>{Next node: Stun and Ailment Threshold from Energy Shield}}"
+    },
+    {
+      "id": "energy_shield10_",
+      "level_interval": [
+        0,
+        100
+      ],
+      "additional_text": "<b>{<m>{Allocation Step #81}}\r\n<s>{- }<i>{<s>{Next node: Pure Energy}}"
+    },
+    {
+      "id": "witch_sorceress_notable2",
+      "level_interval": [
+        0,
+        100
+      ],
+      "additional_text": "<b>{<m>{Allocation Step #82}}\r\n<s>{- }<i>{<s>{Next node: Energy Shield and Mana Regeneration}}"
+    },
+    {
+      "id": "energy_shield7",
+      "level_interval": [
+        0,
+        100
+      ],
+      "additional_text": "<b>{<m>{Allocation Step #83}}\r\n<s>{- }<i>{<s>{Next node: Energy Shield and Mana Regeneration}}"
+    },
+    {
+      "id": "energy_shield13",
+      "level_interval": [
+        0,
+        100
+      ],
+      "additional_text": "<b>{<m>{Allocation Step #84}}\r\n<s>{- }<i>{<s>{Next node: Insightfulness}}"
+    },
+    {
+      "id": "energy_shield34_",
+      "level_interval": [
+        0,
+        100
+      ],
+      "additional_text": "<b>{<m>{Allocation Step #85}}\r\n<s>{- }<i>{<s>{Next node: Attribute}}"
+    },
+    {
+      "id": "attributes78",
+      "level_interval": [
+        0,
+        100
+      ],
+      "additional_text": "<b>{<m>{Allocation Step #86}}\r\n<s>{- }<i>{<s>{Next node: Energy Shield}}"
+    },
+    {
+      "id": "energy_shield29",
+      "level_interval": [
+        0,
+        100
+      ],
+      "additional_text": "<b>{<m>{Allocation Step #87}}\r\n<s>{- }<i>{<s>{Next node: Illuminated Crown}}"
+    },
+    {
+      "id": "energy_shield39",
+      "level_interval": [
+        0,
+        100
+      ],
+      "additional_text": "<b>{<m>{Allocation Step #88}}\r\n<s>{- }<i>{<s>{Next node: Energy Shield}}"
+    },
+    {
+      "id": "energy_shield41",
+      "level_interval": [
+        0,
+        100
+      ],
+      "additional_text": "<b>{<m>{Allocation Step #89}}\r\n<s>{- }<i>{<s>{Next node: Heavy Buffer}}"
+    },
+    {
+      "id": "energy_shield38",
+      "level_interval": [
+        0,
+        100
+      ],
+      "additional_text": "<b>{<m>{Allocation Step #90}}\r\n<s>{- }<i>{<s>{Next node: Life}}"
+    },
+    {
+      "id": "AscendancyWitch3Small6_",
+      "level_interval": [
+        0,
+        100
+      ],
+      "additional_text": "<b>{<m>{Allocation Step #91}}\r\n<s>{- }<i>{<s>{Next node: Soulless Form}}"
+    },
+    {
+      "id": "AscendancyWitch3Notable5",
+      "level_interval": [
+        0,
+        100
+      ],
+      "additional_text": "<b>{<m>{Allocation Step #92}}\r\n<s>{- }<i>{<s>{Next node: Life}}"
+    },
+    {
+      "id": "AscendancyWitch3Small5",
+      "level_interval": [
+        0,
+        100
+      ],
+      "additional_text": "<b>{<m>{Allocation Step #93}}\r\n<s>{- }<i>{<s>{Next node: Eternal Life}}"
+    },
+    {
+      "id": "AscendancyWitch3Notable6",
+      "level_interval": [
+        0,
+        100
+      ],
+      "additional_text": "<b>{<m>{Allocation Step #94}}"
+    },
+    {
+      "id": "curses13",
+      "level_interval": [
+        0,
+        100
+      ],
+      "weapon_set": 2,
+      "additional_text": "<b>{<m>{Allocation Step #1 (Weapon Set 2)}}\r\n<s>{- }<i>{<s>{Next node: Curse Duration}}"
+    },
+    {
+      "id": "curses12",
+      "level_interval": [
+        0,
+        100
+      ],
+      "weapon_set": 2,
+      "additional_text": "<b>{<m>{Allocation Step #2 (Weapon Set 2)}}\r\n<s>{- }<i>{<s>{Next node: Curse Duration}}"
+    },
+    {
+      "id": "curses11",
+      "level_interval": [
+        0,
+        100
+      ],
+      "weapon_set": 2,
+      "additional_text": "<b>{<m>{Allocation Step #3 (Weapon Set 2)}}\r\n<s>{- }<i>{<s>{Next node: Fated End}}"
+    },
+    {
+      "id": "curses14",
+      "level_interval": [
+        0,
+        100
+      ],
+      "weapon_set": 2,
+      "additional_text": "<b>{<m>{Allocation Step #4 (Weapon Set 2)}}\r\n<s>{- }<i>{<s>{Next node: Attribute}}"
+    },
+    {
+      "id": "intelligence79",
+      "level_interval": [
+        0,
+        100
+      ],
+      "weapon_set": 2,
+      "additional_text": "<b>{<m>{Allocation Step #5 (Weapon Set 2)}}\r\n<s>{- }<i>{<s>{Next node: Curse Area}}"
+    },
+    {
+      "id": "curses8",
+      "level_interval": [
+        0,
+        100
+      ],
+      "weapon_set": 2,
+      "additional_text": "<b>{<m>{Allocation Step #6 (Weapon Set 2)}}\r\n<s>{- }<i>{<s>{Next node: Curse Area}}"
+    },
+    {
+      "id": "curses9",
+      "level_interval": [
+        0,
+        100
+      ],
+      "weapon_set": 2,
+      "additional_text": "<b>{<m>{Allocation Step #7 (Weapon Set 2)}}\r\n<s>{- }<i>{<s>{Next node: Curse Area}}"
+    },
+    {
+      "id": "curses7",
+      "level_interval": [
+        0,
+        100
+      ],
+      "weapon_set": 2,
+      "additional_text": "<b>{<m>{Allocation Step #8 (Weapon Set 2)}}\r\n<s>{- }<i>{<s>{Next node: Zone of Control}}"
+    },
+    {
+      "id": "curses6",
+      "level_interval": [
+        0,
+        100
+      ],
+      "weapon_set": 2,
+      "additional_text": "<b>{<m>{Allocation Step #9 (Weapon Set 2)}}\r\n<s>{- }<i>{<s>{Next node: Curse Duration}}"
+    },
+    {
+      "id": "curses15",
+      "level_interval": [
+        0,
+        100
+      ],
+      "weapon_set": 2,
+      "additional_text": "<b>{<m>{Allocation Step #10 (Weapon Set 2)}}\r\n<s>{- }<i>{<s>{Next node: Curse Duration}}"
+    },
+    {
+      "id": "curses16",
+      "level_interval": [
+        0,
+        100
+      ],
+      "weapon_set": 2,
+      "additional_text": "<b>{<m>{Allocation Step #11 (Weapon Set 2)}}\r\n<s>{- }<i>{<s>{Next node: Curse Duration}}"
+    },
+    {
+      "id": "curses17",
+      "level_interval": [
+        0,
+        100
+      ],
+      "weapon_set": 2,
+      "additional_text": "<b>{<m>{Allocation Step #12 (Weapon Set 2)}}\r\n<s>{- }<i>{<s>{Next node: Lingering Whispers}}"
+    },
+    {
+      "id": "curses18",
+      "level_interval": [
+        0,
+        100
+      ],
+      "weapon_set": 2,
+      "additional_text": "<b>{<m>{Allocation Step #13 (Weapon Set 2)}}\r\n<s>{- }<i>{<s>{Next node: Attribute}}"
+    },
+    {
+      "id": "intelligence43",
+      "level_interval": [
+        0,
+        100
+      ],
+      "weapon_set": 2,
+      "additional_text": "<b>{<m>{Allocation Step #14 (Weapon Set 2)}}\r\n<s>{- }<i>{<s>{Next node: Attribute}}"
+    },
+    {
+      "id": "intelligence44",
+      "level_interval": [
+        0,
+        100
+      ],
+      "weapon_set": 2,
+      "additional_text": "<b>{<m>{Allocation Step #15 (Weapon Set 2)}}\r\n<s>{- }<i>{<s>{Next node: Curse Effect}}"
+    },
+    {
+      "id": "curses19",
+      "level_interval": [
+        0,
+        100
+      ],
+      "weapon_set": 2,
+      "additional_text": "<b>{<m>{Allocation Step #16 (Weapon Set 2)}}\r\n<s>{- }<i>{<s>{Next node: Curse Effect}}"
+    },
+    {
+      "id": "curses20",
+      "level_interval": [
+        0,
+        100
+      ],
+      "weapon_set": 2,
+      "additional_text": "<b>{<m>{Allocation Step #17 (Weapon Set 2)}}\r\n<s>{- }<i>{<s>{Next node: Curse Effect}}"
+    },
+    {
+      "id": "curses21",
+      "level_interval": [
+        0,
+        100
+      ],
+      "weapon_set": 2,
+      "additional_text": "<b>{<m>{Allocation Step #18 (Weapon Set 2)}}\r\n<s>{- }<i>{<s>{Next node: Master of Hexes}}"
+    },
+    {
+      "id": "curses10",
+      "level_interval": [
+        0,
+        100
+      ],
+      "weapon_set": 2,
+      "additional_text": "<b>{<m>{Allocation Step #19 (Weapon Set 2)}}"
+    },
+    {
+      "id": "chaos19",
+      "level_interval": [
+        0,
+        100
+      ],
+      "weapon_set": 1,
+      "additional_text": "<b>{<m>{Allocation Step #1 (Weapon Set 1)}}\r\n<s>{- }<i>{<s>{Next node: Withered Effect}}"
+    },
+    {
+      "id": "chaos29",
+      "level_interval": [
+        0,
+        100
+      ],
+      "weapon_set": 1,
+      "additional_text": "<b>{<m>{Allocation Step #2 (Weapon Set 1)}}\r\n<s>{- }<i>{<s>{Next node: Withered Effect}}"
+    },
+    {
+      "id": "chaos22",
+      "level_interval": [
+        0,
+        100
+      ],
+      "weapon_set": 1,
+      "additional_text": "<b>{<m>{Allocation Step #3 (Weapon Set 1)}}\r\n<s>{- }<i>{<s>{Next node: Wither Away}}"
+    },
+    {
+      "id": "chaos38",
+      "level_interval": [
+        0,
+        100
+      ],
+      "weapon_set": 1,
+      "additional_text": "<b>{<m>{Allocation Step #4 (Weapon Set 1)}}\r\n<s>{- }<i>{<s>{Next node: Chaos Damage}}"
+    },
+    {
+      "id": "chaos3",
+      "level_interval": [
+        0,
+        100
+      ],
+      "weapon_set": 1,
+      "additional_text": "<b>{<m>{Allocation Step #5 (Weapon Set 1)}}\r\n<s>{- }<i>{<s>{Next node: Chaos Damage}}"
+    },
+    {
+      "id": "chaos16",
+      "level_interval": [
+        0,
+        100
+      ],
+      "weapon_set": 1,
+      "additional_text": "<b>{<m>{Allocation Step #6 (Weapon Set 1)}}\r\n<s>{- }<i>{<s>{Next node: Chaos Damage}}"
+    },
+    {
+      "id": "chaos18_",
+      "level_interval": [
+        0,
+        100
+      ],
+      "weapon_set": 1,
+      "additional_text": "<b>{<m>{Allocation Step #7 (Weapon Set 1)}}\r\n<s>{- }<i>{<s>{Next node: Void}}"
+    },
+    {
+      "id": "chaos36",
+      "level_interval": [
+        0,
+        100
+      ],
+      "weapon_set": 1,
+      "additional_text": "<b>{<m>{Allocation Step #8 (Weapon Set 1)}}\r\n<s>{- }<i>{<s>{Next node: Spell Damage}}"
+    },
+    {
+      "id": "spells1",
+      "level_interval": [
+        0,
+        100
+      ],
+      "weapon_set": 1,
+      "additional_text": "<b>{<m>{Allocation Step #9 (Weapon Set 1)}}\r\n<s>{- }<i>{<s>{Next node: Spell Damage}}"
+    },
+    {
+      "id": "spells3",
+      "level_interval": [
+        0,
+        100
+      ],
+      "weapon_set": 1,
+      "additional_text": "<b>{<m>{Allocation Step #10 (Weapon Set 1)}}\r\n<s>{- }<i>{<s>{Next node: Spell Damage}}"
+    },
+    {
+      "id": "spells12",
+      "level_interval": [
+        0,
+        100
+      ],
+      "weapon_set": 1,
+      "additional_text": "<b>{<m>{Allocation Step #11 (Weapon Set 1)}}\r\n<s>{- }<i>{<s>{Next node: Potent Incantation}}"
+    },
+    {
+      "id": "spells33",
+      "level_interval": [
+        0,
+        100
+      ],
+      "weapon_set": 1,
+      "additional_text": "<b>{<m>{Allocation Step #12 (Weapon Set 1)}}\r\n<s>{- }<i>{<s>{Next node: Chaos Damage}}"
+    },
+    {
+      "id": "chaos7",
+      "level_interval": [
+        0,
+        100
+      ],
+      "weapon_set": 1,
+      "additional_text": "<b>{<m>{Allocation Step #13 (Weapon Set 1)}}\r\n<s>{- }<i>{<s>{Next node: Chaos Damage}}"
+    },
+    {
+      "id": "chaos9",
+      "level_interval": [
+        0,
+        100
+      ],
+      "weapon_set": 1,
+      "additional_text": "<b>{<m>{Allocation Step #14 (Weapon Set 1)}}\r\n<s>{- }<i>{<s>{Next node: Chaos Damage}}"
+    },
+    {
+      "id": "chaos10",
+      "level_interval": [
+        0,
+        100
+      ],
+      "weapon_set": 1,
+      "additional_text": "<b>{<m>{Allocation Step #15 (Weapon Set 1)}}\r\n<s>{- }<i>{<s>{Next node: Chaos Damage}}"
+    },
+    {
+      "id": "chaos11",
+      "level_interval": [
+        0,
+        100
+      ],
+      "weapon_set": 1,
+      "additional_text": "<b>{<m>{Allocation Step #16 (Weapon Set 1)}}\r\n<s>{- }<i>{<s>{Next node: Dark Entries}}"
+    },
+    {
+      "id": "chaos31",
+      "level_interval": [
+        0,
+        100
+      ],
+      "weapon_set": 1,
+      "additional_text": "<b>{<m>{Allocation Step #17 (Weapon Set 1)}}\r\n<s>{- }<i>{<s>{Next node: Mana Regeneration}}"
+    },
+    {
+      "id": "mana_regeneration21",
+      "level_interval": [
+        0,
+        100
+      ],
+      "weapon_set": 1,
+      "additional_text": "<b>{<m>{Allocation Step #18 (Weapon Set 1)}}\r\n<s>{- }<i>{<s>{Next node: Open Mind}}"
+    },
+    {
+      "id": "mana_regeneration22_",
+      "level_interval": [
+        0,
+        100
+      ],
+      "weapon_set": 1,
+      "additional_text": "<b>{<m>{Allocation Step #19 (Weapon Set 1)}}"
+    }
+  ],
+  "skills": [
+    {
+      "id": "Metadata/Items/Gems/SkillGemChaosbolt",
+      "level_interval": [
+        0,
+        100
+      ],
+      "support_skills": [
+        {
+          "id": "Metadata/Items/Gems/SupportGemChaosMastery",
+          "level_interval": [
+            0,
+            100
+          ]
+        },
+        {
+          "id": "Metadata/Items/Gems/SupportGemUnleash",
+          "level_interval": [
+            0,
+            100
+          ]
+        },
+        {
+          "id": "Metadata/Items/Gems/SupportGemArcaneTempoTwo",
+          "level_interval": [
+            0,
+            100
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Metadata/Items/Gems/SkillGemEssenceDrain",
+      "level_interval": [
+        0,
+        100
+      ],
+      "support_skills": [
+        {
+          "id": "Metadata/Items/Gems/SupportGemChainThree",
+          "level_interval": [
+            0,
+            100
+          ]
+        },
+        {
+          "id": "Metadata/Items/Gem/SupportGemZenithTwo",
+          "level_interval": [
+            0,
+            100
+          ]
+        },
+        {
+          "id": "Metadata/Items/Gem/SupportGemSwiftAfflictionTwo",
+          "level_interval": [
+            0,
+            100
+          ]
+        },
+        {
+          "id": "Metadata/Items/Gem/SupportGemConsideredCasting",
+          "level_interval": [
+            0,
+            100
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Metadata/Items/Gems/SkillGemContagion",
+      "level_interval": [
+        0,
+        100
+      ],
+      "support_skills": [
+        {
+          "id": "Metadata/Items/Gems/SupportGemArcaneTempoThree",
+          "level_interval": [
+            0,
+            100
+          ]
+        },
+        {
+          "id": "Metadata/Items/Gems/SupportGemMagnifiedEffectTwo",
+          "level_interval": [
+            0,
+            100
+          ]
+        },
+        {
+          "id": "Metadata/Items/Gems/SupportGemUnleash",
+          "level_interval": [
+            0,
+            100
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Metadata/Items/Gems/SkillGemDespair",
+      "level_interval": [
+        0,
+        100
+      ],
+      "support_skills": [
+        {
+          "id": "Metadata/Items/Gem/SupportGemDecayingHex",
+          "level_interval": [
+            0,
+            100
+          ]
+        },
+        {
+          "id": "Metadata/Items/Gems/SupportGemHeightenedCurse",
+          "level_interval": [
+            0,
+            100
+          ]
+        },
+        {
+          "id": "Metadata/Items/Gems/SupportGemPersistenceTwo",
+          "level_interval": [
+            0,
+            100
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Metadata/Items/Gem/SkillGemDarkEffigy",
+      "level_interval": [
+        0,
+        100
+      ],
+      "support_skills": [
+        {
+          "id": "Metadata/Items/Gems/SupportGemEnvenomThree",
+          "level_interval": [
+            0,
+            100
+          ]
+        },
+        {
+          "id": "Metadata/Items/Gem/SupportGemAncestralUrgencyThree",
+          "level_interval": [
+            0,
+            100
+          ]
+        },
+        {
+          "id": "Metadata/Items/Gems/SupportGemOverabundanceTwo",
+          "level_interval": [
+            0,
+            100
+          ]
+        },
+        {
+          "id": "Metadata/Items/Gems/SupportGemControlledDestruction",
+          "level_interval": [
+            0,
+            100
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Metadata/Items/Gems/SkillGemBlasphemy",
+      "level_interval": [
+        0,
+        100
+      ],
+      "support_skills": [
+        {
+          "id": "Metadata/Items/Gems/SupportGemEncumbrance",
+          "level_interval": [
+            0,
+            100
+          ]
+        },
+        {
+          "id": "Metadata/Items/Gems/SupportGemMagnifiedEffectTwo",
+          "level_interval": [
+            0,
+            100
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Metadata/Items/Gem/SkillGemWitheringPresence",
+      "level_interval": [
+        0,
+        100
+      ],
+      "support_skills": [
+        {
+          "id": "Metadata/Items/Gems/SupportGemPersistenceTwo",
+          "level_interval": [
+            0,
+            100
+          ]
+        },
+        {
+          "id": "Metadata/Items/Gems/SupportGemChaosMastery",
+          "level_interval": [
+            0,
+            100
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Metadata/Items/Gems/SkillGemSigilOfPower",
+      "level_interval": [
+        0,
+        100
+      ],
+      "support_skills": [
+        {
+          "id": "Metadata/Items/Gems/SupportGemMagnifiedEffectTwo",
+          "level_interval": [
+            0,
+            100
+          ]
+        },
+        {
+          "id": "Metadata/Items/Gems/SupportGemPersistenceTwo",
+          "level_interval": [
+            0,
+            100
+          ]
+        },
+        {
+          "id": "Metadata/Items/Gems/SupportGemArcaneTempoTwo",
+          "level_interval": [
+            0,
+            100
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Metadata/Items/Gem/SkillGemRavenousSwarm",
+      "level_interval": [
+        0,
+        100
+      ],
+      "support_skills": [
+        {
+          "id": "Metadata/Items/Gems/SupportGemEnvenomThree",
+          "level_interval": [
+            0,
+            100
+          ]
+        },
+        {
+          "id": "Metadata/Items/Gems/SupportGemComorbidity",
+          "level_interval": [
+            0,
+            100
+          ]
+        },
+        {
+          "id": "Metadata/Items/Gems/SupportGemPersistenceTwo",
+          "level_interval": [
+            0,
+            100
+          ]
+        },
+        {
+          "id": "Metadata/Items/Gems/SupportGemWitheringTouch",
+          "level_interval": [
+            0,
+            100
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Metadata/Items/Gem/SkillGemConvalescence",
+      "level_interval": [
+        0,
+        100
+      ],
+      "support_skills": [
+        {
+          "id": "Metadata/Items/Gems/SupportGemIngenuityTwo",
+          "level_interval": [
+            0,
+            100
+          ]
+        },
+        {
+          "id": "Metadata/Items/Gems/SupportGemSecondWindThree",
+          "level_interval": [
+            0,
+            100
+          ]
+        },
+        {
+          "id": "Metadata/Items/Gems/SupportGemPersistenceTwo",
+          "level_interval": [
+            0,
+            100
+          ]
+        }
+      ]
+    }
+  ],
+  "inventory_slots": [
+    {
+      "inventory_id": "Helm1",
+      "slot_x": 0,
+      "slot_y": 0,
+      "unique_name": "Atziri's Disdain",
+      "level_interval": [
+        0,
+        100
+      ],
+      "additional_text": "<rgb(162, 207, 251)>{<b>{<m>{Gold Circlet (Int Base)}}}\r\n\r\n<b>{<m>{Stat Priority}}\r\n-------------------\r\n<s>{1. +(60-100) to maximum Mana\r\n2. (10-20)% increased Rarity of Items found\r\n3. Gain (10-15)% of maximum Life as Extra maximum Energy Shield\r\n4. 10% of Damage taken bypasses Energy Shield}"
+    },
+    {
+      "inventory_id": "Weapon1",
+      "slot_x": 0,
+      "slot_y": 0,
+      "level_interval": [
+        0,
+        100
+      ],
+      "additional_text": "Withered Wand\r\n\r\n<b>{<m>{Stat Priority}}\r\n-------------------\r\n<s>{1. #% increased Spell Damage\r\n2. #% increased Chaos Damage\r\n3. # to Level of all Chaos Spell Skills\r\n4. #% increased Cast Speed}"
+    },
+    {
+      "inventory_id": "Offhand1",
+      "slot_x": 0,
+      "slot_y": 0,
+      "level_interval": [
+        0,
+        100
+      ],
+      "additional_text": "<rgb(162, 207, 251)>{<b>{<m>{Tasalian Focus (Int Base)}}}\r\n\r\n<b>{<m>{Stat Priority}}\r\n-------------------\r\n<s>{1. #% increased Spell Damage\r\n2. #% increased Chaos Damage\r\n3. # to Level of all Spell Skills\r\n4. #% increased Cast Speed}"
+    },
+    {
+      "inventory_id": "Amulet1",
+      "slot_x": 0,
+      "slot_y": 0,
+      "level_interval": [
+        0,
+        100
+      ],
+      "additional_text": "Solar Amulet\r\n\r\n<b>{<m>{Stat Priority}}\r\n-------------------\r\n<s>{1. # to Level of all Spell Skills\r\n2. #% increased Cast Speed}"
+    },
+    {
+      "inventory_id": "BodyArmour1",
+      "slot_x": 0,
+      "slot_y": 0,
+      "level_interval": [
+        0,
+        100
+      ],
+      "additional_text": "<rgb(162, 207, 251)>{<b>{<m>{Vile Robe (Int Base)}}}\r\n\r\n<b>{<m>{Stat Priority}}\r\n-------------------\r\n<s>{1. # to maximum Energy Shield (local)\r\n2. #% increased Energy Shield (local)\r\n3. # to Spirit\r\n4. #% to Cold Resistance}"
+    },
+    {
+      "inventory_id": "Boots1",
+      "slot_x": 0,
+      "slot_y": 0,
+      "level_interval": [
+        0,
+        100
+      ],
+      "additional_text": "<rgb(162, 207, 251)>{<b>{<m>{Sekhema Sandals (Int Base)}}}\r\n\r\n<b>{<m>{Stat Priority}}\r\n-------------------\r\n<s>{1. #% increased Movement Speed\r\n2. # to maximum Energy Shield (local)\r\n3. #% increased Energy Shield (local)\r\n4. #% increased Rarity of Items found\r\n5. #% to Lightning Resistance}"
+    },
+    {
+      "inventory_id": "Gloves1",
+      "slot_x": 0,
+      "slot_y": 0,
+      "level_interval": [
+        0,
+        100
+      ],
+      "additional_text": "<rgb(162, 207, 251)>{<b>{<m>{Sirenscale Gloves (Int Base)}}}\r\n\r\n<b>{<m>{Stat Priority}}\r\n-------------------\r\n<s>{1. # to maximum Energy Shield (local)\r\n2. #% increased Energy Shield (local)\r\n3. #% increased Rarity of Items found\r\n4. #% to Fire Resistance}"
+    },
+    {
+      "inventory_id": "Ring2",
+      "slot_x": 0,
+      "slot_y": 0,
+      "level_interval": [
+        0,
+        100
+      ],
+      "additional_text": "Prismatic Ring\r\n\r\n<b>{<m>{Stat Priority}}\r\n-------------------\r\n<s>{1. #% increased Rarity of Items found\r\n2. #% increased Cast Speed\r\n3. #% to all Elemental Resistances}"
+    },
+    {
+      "inventory_id": "Belt1",
+      "slot_x": 0,
+      "slot_y": 0,
+      "level_interval": [
+        0,
+        100
+      ],
+      "additional_text": "Fine Belt\r\n\r\n<b>{<m>{Stat Priority}}\r\n-------------------\r\n<s>{1. #% to Fire Resistance\r\n2. #% to Cold Resistance\r\n3. #% to Lightning Resistance}"
+    },
+    {
+      "inventory_id": "Ring1",
+      "slot_x": 0,
+      "slot_y": 0,
+      "level_interval": [
+        0,
+        100
+      ],
+      "additional_text": "Prismatic Ring\r\n\r\n<b>{<m>{Stat Priority}}\r\n-------------------\r\n<s>{1. #% increased Rarity of Items found\r\n2. #% increased Cast Speed\r\n3. #% to all Elemental Resistances}"
+    },
+    {
+      "inventory_id": "Flask1",
+      "slot_x": 1,
+      "slot_y": 0,
+      "level_interval": [
+        0,
+        100
+      ],
+      "additional_text": "Ultimate Mana Flask\r\n\r\n<b>{<m>{Stat Priority}}\r\n-------------------\r\n<s>{1. Gains # Charges per Second (local)\r\n2. #% increased Mana Recovered (local)\r\n3. Removes #% of Mana Recovered from Life when used (local)}"
+    },
+    {
+      "inventory_id": "Flask1",
+      "slot_x": 0,
+      "slot_y": 0,
+      "level_interval": [
+        0,
+        100
+      ],
+      "additional_text": "Ultimate Life Flask\r\n\r\n<b>{<m>{Stat Priority}}\r\n-------------------\r\n<s>{1. Gains # Charges per Second (local)\r\n2. #% increased Amount Recovered (local)}"
+    },
+    {
+      "inventory_id": "Trinket1",
+      "slot_x": 2,
+      "slot_y": 0,
+      "level_interval": [
+        0,
+        100
+      ],
+      "additional_text": "Thawing Charm\r\n\r\n<b>{<m>{Stat Priority}}\r\n-------------------\r\n<s>{1. Also grants # Guard (local)\r\n2. #% increased Charges per use (local)}"
+    },
+    {
+      "inventory_id": "Trinket1",
+      "slot_x": 3,
+      "slot_y": 0,
+      "level_interval": [
+        0,
+        100
+      ],
+      "additional_text": "Dousing Charm\r\n\r\n<b>{<m>{Stat Priority}}\r\n-------------------\r\n<s>{1. Also grants # Guard (local)\r\n2. #% increased Charges per use (local)}"
+    },
+    {
+      "inventory_id": "Trinket1",
+      "slot_x": 4,
+      "slot_y": 0,
+      "level_interval": [
+        0,
+        100
+      ],
+      "additional_text": "Golden Charm\r\n\r\n<b>{<m>{Stat Priority}}\r\n-------------------\r\n<s>{1. #% increased Duration (local)\r\n2. #% increased Charges per use (local)}"
+    },
+    {
+      "inventory_id": "Weapon2",
+      "slot_x": 0,
+      "slot_y": 0,
+      "level_interval": [
+        0,
+        100
+      ],
+      "additional_text": "Chiming Staff\r\n\r\n<b>{<m>{Stat Priority}}\r\n-------------------\r\n<s>{1. # to Level of all Spell Skills\r\n2. #% increased Cast Speed}"
+    }
+  ]
+}
