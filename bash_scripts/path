@@ -1,2 +1,15 @@
-# Golang binaries
-export PATH="$PATH:$HOME/go/go1.26.1/bin"
+add_to_path() {
+  local newDir="$1"
+  [ -z "$newDir" ] && return 1
+
+  case ":$PATH:" in
+    *":$newDir:"*)
+      ;;
+    *)
+      export PATH="$newDir:$PATH"
+      ;;
+  esac
+}
+
+# Golang binary
+add_to_path "$HOME/go/go1.26.5/bin"
